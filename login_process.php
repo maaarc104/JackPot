@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         if ($password === $stored_password) {
          $_SESSION['id'] = $row['user_id'];
-            header("Location: Home.php");   
+            header("Location: index.php");   
             exit();
         } else {
 

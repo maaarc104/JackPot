@@ -14,7 +14,7 @@
   <a href="order.php">Store</a>
   <a href="inventory.php">Inventory</a>
   <a href="history.php">History</a>
-  <a href="home.php">Home</a>
+  <a href="index.php">Home</a>
 </div>
 
 </body>
